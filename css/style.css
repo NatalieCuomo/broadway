@@ -48,5 +48,6 @@ p{
   font-size: 11px;
   color: white;
   background-color: dimgray;
-  display: inline-block;
+  TEXT-align: left;
+
 }
